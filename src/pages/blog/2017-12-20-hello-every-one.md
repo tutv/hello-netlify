@@ -8,3 +8,7 @@ description: How to build blog.
 ## What is this
 
 This is description.
+
+
+
+![Hello image](/img/man.jpg)
