@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: hello-world
+path: /hello-world
 title: How are you
 date: 2017-12-19T04:25:54.968Z
 description: description
